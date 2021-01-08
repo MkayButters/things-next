@@ -13,11 +13,7 @@ export default function Home() {
     
             </Head>
             <main className={styles.main}>
-    
-              <h1 className={styles.title}>Daily XKCD</h1>
-              <h2>{props.comic.safe_title}</h2>
-              <img src={props.comic.img} alt={props.comic.alt} />
-    
+              <p>Daily XKCD</p>
             </main>
           </div>
         </Layout>
