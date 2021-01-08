@@ -36,4 +36,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## My active deployed site:: Deploy
 
+https://things-next.vercel.app/
+
 
